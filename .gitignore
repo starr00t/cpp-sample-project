@@ -1,0 +1,26 @@
+# 빌드 디렉토리
+build/
+
+# 컴파일된 오브젝트 파일
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.lib
+*.exe
+
+# IDE 설정 파일
+.vscode/
+.idea/
+*.user
+*.suo
+
+# CMake 임시 파일
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# 기타 임시 파일
+*.log
+*.tmp
